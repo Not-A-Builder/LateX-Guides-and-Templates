@@ -12,6 +12,8 @@ Rounak Bose https://github.com/Not-A-Builder
 
 Prof. Jayanta Poray https://www.linkedin.com/in/jayanta-poray-7b542813/?originalSubdomain=lu
 
+-> https://github.com/Not-A-Builder/LateX-Guides-and-Templates/tree/master/A%20LateX%20Guide
+
 
 ### MIT License
 
