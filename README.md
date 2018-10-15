@@ -1,7 +1,7 @@
 # LateX-Guides-and-Templates
 A comprehensive collection of LateX templates and guide books, for all intents and purposes.
 
-There is still room for optimisation. So feel free to fork and contribute.
+There is still room for optimisation. So feel free to fork and contribute. Create PR's and start working!
 
 For even more templates, visit: http://www.latextemplates.com
 
