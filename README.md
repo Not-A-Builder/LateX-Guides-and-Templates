@@ -15,6 +15,11 @@ Prof. Jayanta Poray https://www.linkedin.com/in/jayanta-poray-7b542813/?original
 -> https://github.com/Not-A-Builder/LateX-Guides-and-Templates/tree/master/A%20LateX%20Guide
 
 
+### But what IS LateX?
+
+
+
+
 ### MIT License
 
 Copyright (c) 2018 Rounak Bose
