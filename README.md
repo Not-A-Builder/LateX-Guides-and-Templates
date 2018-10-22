@@ -21,6 +21,7 @@ LaTeX, which is pronounced «Lah-tech» or «Lay-tech» (to rhyme with «blech»
 
 LaTeX is not a word processor! Instead, LaTeX encourages authors not to worry too much about the appearance of their documents but to concentrate on getting the right content.
 
+You can learn more about LateX from https://www.latex-project.org/about/
 
 ### MIT License
 
